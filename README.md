@@ -1,3 +1,6 @@
+Recommended to open this ipynb in google colabs and upload Transjakarta.csv file in your google drive (mydrive folder)
+
+
 Latar Belakang
 
 TransJakarta adalah sebuah sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan dengan jalur lintasan terpanjang di dunia (208 km). Sistem BRT ini didesain berdasarkan sistem TransMilenio di Bogota, Kolombia. Terhitung sejak 1 Februari 2004, TransJakarta resmi beroperasi Transjakarta merupakan opsi moda transportasi utama masyarakat. Pada bulan April 2023 terdapat jumlah transaksi lebih dari 30000 kali. Transjakarta sangat populer karena memiliki tarif yang terjangkau
@@ -17,6 +20,8 @@ Rumusan/Batasan Masalah
 Bagaimana langkah yang perlu dilakukan untuk menekan biaya operasional dan mengurangi ketergantungan terhadap dana subsidi dari pemerintah
 Bagaimana strategi pengelolaan Sistem Transjakarta pada Jam-Jam Padat agar tidak terjadi penumpukan penumpang
 Bagaimana langkah awal yang perlu dilakukan untuk mewujudkan Transjakarta yang ramah terhadap wanita dan ramah terhadap lansia
+
+
 Penjelasan Kolom
 
 - transID: Unique transaction id for every transaction
