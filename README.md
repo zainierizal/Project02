@@ -1,5 +1,7 @@
 Recommended to open this ipynb in google colabs and upload Transjakarta.csv file in your google drive (mydrive folder)
 
+For general data visualization, open this tableau dashboard https://public.tableau.com/app/profile/zainie.rizal/viz/transjakarta_project2/Dashboard1
+
 
 Latar Belakang
 
