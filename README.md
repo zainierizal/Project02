@@ -19,11 +19,11 @@ Pengguna Transjakarta mayoritas adalah wanita, bahkan pada beberapa koridor terd
 
 Rumusan/Batasan Masalah
 
-Bagaimana langkah yang perlu dilakukan untuk menekan biaya operasional dan mengurangi ketergantungan terhadap dana subsidi dari pemerintah
+1. Bagaimana langkah yang perlu dilakukan untuk menekan biaya operasional dan mengurangi ketergantungan terhadap dana subsidi dari pemerintah
 
-Bagaimana strategi pengelolaan Sistem Transjakarta pada Jam-Jam Padat agar tidak terjadi penumpukan penumpang
+2. Bagaimana strategi pengelolaan Sistem Transjakarta pada Jam-Jam Padat agar tidak terjadi penumpukan penumpang
 
-Bagaimana langkah awal yang perlu dilakukan untuk mewujudkan Transjakarta yang ramah terhadap wanita dan ramah terhadap lansia
+3. Bagaimana langkah awal yang perlu dilakukan untuk mewujudkan Transjakarta yang ramah terhadap wanita dan ramah terhadap lansia
 
 
 Penjelasan Kolom
